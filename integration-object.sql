@@ -16,3 +16,5 @@ BEGIN
 END;
 
 CALL SALES_DEV.COMMON.GET_CLOUD_AND_REGION();
+
+-- added one extra line
